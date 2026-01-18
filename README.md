@@ -6,5 +6,3 @@ Small collection of utilities and experiments — mainly Python tools, a few web
 Mostly Python, HTML/CSS, and Batch scripts.
 
 ---
-
-Profile: https://github.com/1downy
